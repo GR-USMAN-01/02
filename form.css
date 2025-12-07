@@ -1,0 +1,28 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.form{
+     margin:auto ;
+    }    
+form{
+    background-color: khaki;
+    text-align: center;
+    padding-top: 15PX;
+    width: 450PX;
+    border-radius: 20px;
+    border: 1px solid black;
+    }
+input{
+    border: none;
+    }
+select{
+    border: none;
+    }   
+input:hover{
+    border: black;
+    }
+input submit{
+   margin-top: 15PX;
+}    
+ 
