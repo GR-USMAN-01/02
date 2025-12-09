@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background-color: aqua;
+body{ 
+    background-color: rgb(135, 210, 210);
 }
 .main{
     border: 1px solid black;
@@ -89,3 +89,4 @@ body{
 .rb-P>p{
     margin-top: 20px;
 }
+
